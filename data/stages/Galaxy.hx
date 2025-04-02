@@ -1,3 +1,5 @@
+import hxvlc.flixel.FlxVideoSprite;
+
 function create() {
     defaultCamZoom = 0.9;
     boyfriend.setPosition(980, 190);
