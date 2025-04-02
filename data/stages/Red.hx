@@ -1,4 +1,9 @@
 function create() {
+    defaultCamZoom = 1.3;
+    boyfriend.setPosition(830, 100);
+    gf.setPosition(240, 100);
+    dad.setPosition(210, 120);
+    
     var GFbutwithbigboobas = new FlxSprite(-200, -90, Paths.images('stages/red/GF but with big boobas'));
     GFbutwithbigboobas.scrollFactor.set(0.9, 0.9);
     GFbutwithbigboobas.scale.set(1.4, 1.4);
