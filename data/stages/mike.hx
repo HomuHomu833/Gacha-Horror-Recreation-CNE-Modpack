@@ -1,8 +1,8 @@
 function create() {
-    defaultCamZoom = 1.1;
-    boyfriend.setPosition(725, 380);
-    gf.setPosition(240, 100);
-    dad.setPosition(210, 84);
+    defaultCamZoom = 0.9;
+    boyfriend.setPosition(980, 150);
+    gf.setPosition(550, 170);
+    dad.setPosition(150, 120);
     
     var mess:FlxSprite = new FlxSprite(-300, -70, Paths.image('stages/mess'));
     mess.scrollFactor.set(0.9, 0.9);
