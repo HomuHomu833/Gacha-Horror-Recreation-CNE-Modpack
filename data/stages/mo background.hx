@@ -1,4 +1,11 @@
+var JGGHD:FlxSprite;
+
 function create() {
+    defaultCamZoom = 0.9;
+    boyfriend.setPosition(780, 100);
+    gf.setPosition(470, 10);
+    dad.setPosition(190, 100);
+    
     var moe:FlxSprite = new FlxSprite(-600, 67, Paths.images('stages/mo/moe'));
     moe.scrollFactor.set(0.9, 0.9);
     moe.scale.set(1.6, 1.2);
@@ -20,7 +27,7 @@ function create() {
     black.updateHitbox();
     
     if (!Options.lowMemoryMode) {
-        var JGGHD:FlxSprite = new FlxSprite(400, 100);
+        JGGHD = new FlxSprite(400, 100);
         JGGHD.frames = Paths.getSparrowAtlas('stages/mo/JGGHD');
         JGGHD.animation.addByPrefix('idle', 'idle', 24, true);
         JGGHD.animation.play('idle', false);
@@ -34,3 +41,6 @@ function create() {
     add(dablack);
     add(black);
 }
+
+function beatHit()
+    JGGHD.animation.play('idle', false, 13);
