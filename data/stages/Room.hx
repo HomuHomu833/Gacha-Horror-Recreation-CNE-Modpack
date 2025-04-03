@@ -1,4 +1,9 @@
 function create() {
+    defaultCamZoom = 0.9;
+    boyfriend.setPosition(1080, 150);
+    gf.setPosition(-300, -10);
+    dad.setPosition(90, 100);
+    
     var roomwblood:FlxSprite = new FlxSprite(-150, -170, Paths.image('stages/high/roomwblood'));
     roomwblood.scrollFactor.set(0.9, 0.9);
     roomwblood.scale.set(1.9, 1.7);
