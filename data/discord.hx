@@ -2,8 +2,8 @@ import funkin.backend.utils.DiscordUtil;
 
 function onPlayStateUpdate() {
 	DiscordUtil.changeSongPresence(
-		(PlayState.instance.paused ? "Paused: " : "Playing: ") + PlayState.SONG.meta.displayName,
-		"",
+		(PlayState.instance.paused ? "Paused - Freeplay" : "Freeplay"),
+		PlayState.SONG.meta.displayName,
 		PlayState.instance.getIconRPC()
 	);
 }
