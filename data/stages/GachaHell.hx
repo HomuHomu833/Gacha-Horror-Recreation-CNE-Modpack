@@ -4,6 +4,11 @@ public var stage_3:FlxSprite;
 public var stage_4:FlxSprite;
 
 function create() {
+    defaultCamZoom = 1;
+    boyfriend.setPosition(100, 100);
+    gf.setPosition(400, 130);
+    dad.setPosition(770, 200);
+    
     stage_1 = new FlxSprite(-250, 10, Paths.image("stages/Gacha Hell/Pixie"));
     stage_1.scale.set(2.25, 2);
     stage_1.updateHitbox();
