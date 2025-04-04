@@ -15,7 +15,7 @@ float rand(vec2 p)
 }
 
 float noise(vec2 uv, float blockiness)
-{   
+{ 
     vec2 lv = fract(uv);
     vec2 id = floor(uv);
     
