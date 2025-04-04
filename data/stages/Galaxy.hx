@@ -1,5 +1,4 @@
 import hxvlc.flixel.FlxVideoSprite;
-import sys.io.File;
 
 function create() {
     defaultCamZoom = 0.9;
@@ -14,7 +13,7 @@ function create() {
     insert(1, galaxii);
     
     var galaxy:FlxVideoSprite = new FlxVideoSprite(-300, 70);
-    galaxy.load(File.getContent(Paths.video('stages/galaxy')), [':input-repeat=65535']);
+    galaxy.load(Assets.getPath(Paths.video('stages/galaxy')), [':input-repeat=65535']);
     insert(2, galaxy);
     galaxy.play();
 }
