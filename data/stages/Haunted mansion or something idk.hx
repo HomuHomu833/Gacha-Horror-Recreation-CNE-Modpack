@@ -43,14 +43,3 @@ function create() {
         add(tre2);
     }
 }
-
-function beatHit() {
-    if (curBeat == 192 && curSong == 'Despair') {
-        bg.visible = false;
-        if (!Options.lowMemoryMode) tre.visible = tre2.visible = false;
-    }
-    else if (curBeat == 256 && curSong == 'Despair') {
-        bg.visible = true;
-        if (!Options.lowMemoryMode) tre.visible = tre2.visible = true;
-    }
-}
