@@ -1,6 +1,6 @@
-var bg:FlxSprite;
-var tre:FlxSprite;
-var tre2:FlxSprite;
+public var bg:FlxSprite;
+public var tre:FlxSprite;
+public var tre2:FlxSprite;
 
 function create() {
     defaultCamZoom = 0.9;
