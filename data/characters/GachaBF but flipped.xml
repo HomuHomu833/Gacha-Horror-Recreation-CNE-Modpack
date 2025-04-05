@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="GachaBoyfriend" icon="mo" color="#31b0d1" x="-410" y="-165" camx="250" camy="210" scale="0.6">
+	<anim name="idle" anim="GachaBoyfriend Idle0" x="-8.333333333333334" y="0"/>
+	<anim name="singDOWN" anim="GachaBoyfriend Down0" x="-25" y="36.66666666666667"/>
+	<anim name="singUP" anim="GachaBoyfriend Up0" x="-10" y="5"/>
+	<anim name="singLEFTmiss" anim="GachaBoyfriend RightMiss0" x="6.666666666666667" y="-3.3333333333333335"/>
+	<anim name="singDOWNmiss" anim="GachaBoyfriend DownMiss0" x="-23.333333333333336" y="38.333333333333336"/>
+	<anim name="singUPmiss" anim="GachaBoyfriend UpMiss0" x="-8.333333333333334" y="6.666666666666667"/>
+	<anim name="singRIGHTmiss" anim="GachaBoyfriend LeftMiss0" x="-10" y="0"/>
+	<anim name="dodge" anim="GachaBoyfriend Dodge0" x="-35" y="6.666666666666667"/>
+	<anim name="scared" anim="GachaBoyfriend Scared0" x="-6.666666666666667" y="0" loop="true"/>
+	<anim name="singLEFT" anim="GachaBoyfriend Left0" x="-10" y="-3.3333333333333335"/>
+	<anim name="singRIGHT" anim="GachaBoyfriend Right0" x="6.666666666666667" y="-6.666666666666667"/>
+</character>

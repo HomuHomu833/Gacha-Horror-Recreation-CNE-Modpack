@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Creepy Cutie" icon="cc" color="#9f4e4d" x="-20" y="100" camx="110" camy="60" holdTime="6.1">
+	<anim name="idle" anim="Creepy Cutie Idle"/>
+	<anim name="singLEFT" anim="Creepy Cutie Left" x="75" y="-1"/>
+	<anim name="singDOWN" anim="Creepy Cutie Down" x="6" y="2"/>
+	<anim name="singUP" anim="Creepy Cutie Up" x="6" y="3"/>
+	<anim name="singRIGHT" anim="Creepy Cutie Right" x="-60" y="-4"/>
+</character>

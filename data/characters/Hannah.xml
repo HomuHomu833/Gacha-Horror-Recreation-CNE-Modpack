@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Hannah" icon="hannah" color="#a82e21" x="-320" y="-40" camx="250" camy="200" holdTime="6.1" scale="0.6">
+	<anim name="idle" anim="Hannah Idle"/>
+	<anim name="singLEFT" anim="Hannah Left" x="16.666666666666668" y="16.666666666666668"/>
+	<anim name="singDOWN" anim="Hannah Down" x="0" y="16.666666666666668"/>
+	<anim name="singUP" anim="Hannah Up" x="0" y="16.666666666666668"/>
+	<anim name="singRIGHT" anim="Hannah Right" x="33.333333333333336" y="16.666666666666668"/>
+</character>

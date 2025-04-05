@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="GachaShitGf" icon="gf" color="#a71d13" y="100" camx="-160" camy="130" holdTime="6.1">
+	<anim name="idle" anim="GachaShitGf Idle" fps="15"/>
+</character>

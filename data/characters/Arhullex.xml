@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Arhullex" icon="arhullex" color="#396ca2" x="-260" y="-80" camx="180" camy="150" holdTime="6.1" scale="0.7">
+	<anim name="idle" anim="Arhullex Idle"/>
+	<anim name="singLEFT" anim="Arhullex Left"/>
+	<anim name="singDOWN" anim="Arhullex Down"/>
+	<anim name="singUP" anim="Arhullex Up"/>
+	<anim name="singRIGHT" anim="Arhullex Right"/>
+	<anim name="singLEFTmiss" anim="Arhullex wall"/>
+	<anim name="singRIGHTmiss" anim="Arhullex door"/>
+	<anim name="singUPmiss" anim="Arhullex roof"/>
+	<anim name="singDOWNmiss" anim="Arhullex floor"/>
+	<anim name="firstDeath" anim="Arhullex oh gosh"/>
+	<anim name="deathLoop" anim="Arhullex hes dead" loop="true"/>
+	<anim name="deathConfirm" anim="Arhullex oh nvm"/>
+</character>

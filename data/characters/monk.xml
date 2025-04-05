@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="DeadMonk" icon="monk" color="#000000" x="-50" y="-220" flipX="true" camx="-100" camy="270" holdTime="6.1" scale="0.6">
+	<anim name="idle" anim="DeadMonk Idle" x="3.3333333333333335" y="0"/>
+	<anim name="singLEFT" anim="DeadMonk Left" x="15" y="-1.6666666666666667"/>
+	<anim name="singDOWN" anim="DeadMonk Down" x="3.3333333333333335" y="0"/>
+	<anim name="singUP" anim="DeadMonk Up" x="0" y="-1.6666666666666667"/>
+	<anim name="singRIGHT" anim="DeadMonk Right" x="-10" y="6.666666666666667"/>
+</character>

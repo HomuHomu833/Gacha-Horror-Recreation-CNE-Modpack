@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Hellbro" icon="hellbro" color="#000000" x="-50" y="-220" antialiasing="false" camx="-35" camy="120" holdTime="6.1" scale="0.8">
+	<anim name="idle" anim="Hellbro Idle" x="2.5" y="0"/>
+	<anim name="singLEFT" anim="Hellbro Left" x="23.75" y="-1.25"/>
+	<anim name="singDOWN" anim="Hellbro Down" x="3.75" y="-23.75"/>
+	<anim name="singUP" anim="Hellbro Up" x="0" y="11.25"/>
+	<anim name="singRIGHT" anim="Hellbro Right" x="-32.5" y="0"/>
+</character>

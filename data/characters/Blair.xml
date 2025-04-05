@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Blair" icon="blair" color="#eca8ff" x="-380" y="-160" camx="410" camy="320" holdTime="6.1" scale="0.5">
+	<anim name="idle" anim="Blair Idle"/>
+	<anim name="singLEFT" anim="Blair Left" x="20" y="0"/>
+	<anim name="singDOWN" anim="Blair Down"/>
+	<anim name="singUP" anim="Blair Up"/>
+	<anim name="singRIGHT" anim="Blair Right"/>
+</character>

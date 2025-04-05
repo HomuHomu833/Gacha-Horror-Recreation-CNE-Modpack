@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Mo" icon="bf" color="#73190b" x="70" y="150" flipX="true" camx="200" holdTime="6.1" scale="1.4">
+	<anim name="idle" anim="Mo Idle" loop="true"/>
+	<anim name="singDOWN" anim="Mo Down"/>
+	<anim name="singUP" anim="Mo Up"/>
+	<anim name="singRIGHT" anim="Mo Left"/>
+	<anim name="singLEFT" anim="Mo Right"/>
+</character>

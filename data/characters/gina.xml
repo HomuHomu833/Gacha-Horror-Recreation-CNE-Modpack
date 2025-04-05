@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Gina" icon="gina" color="#b06192" x="-300" y="-333" camx="100" camy="410" holdTime="6.1" scale="0.7">
+	<anim name="idle" anim="Ginav3 Idle" x="0" y="14.285714285714286"/>
+	<anim name="singLEFT" anim="Ginav3 Left" x="160" y="14.285714285714286"/>
+	<anim name="singDOWN" anim="Ginav3 Down" x="11.428571428571429" y="14.285714285714286"/>
+	<anim name="singUP" anim="Ginav3 Up" x="-2.857142857142857" y="14.285714285714286"/>
+	<anim name="singRIGHT" anim="Ginav3 Right" x="-95.71428571428572" y="14.285714285714286"/>
+</character>

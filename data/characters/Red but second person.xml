@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Red but second person" icon="red" color="#b73f3f" x="-420" y="-410" camx="351" camy="398" holdTime="6.1" scale="0.5">
+	<anim name="idle" anim="Red but second person Idle"/>
+	<anim name="singLEFT" anim="Red but second person Left"/>
+	<anim name="singDOWN" anim="Red but second person Down"/>
+	<anim name="singUP" anim="Red but second person Up"/>
+	<anim name="singRIGHT" anim="Red but second person Right"/>
+</character>

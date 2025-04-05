@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="ShitBF" icon="bf" color="#31b0d1" x="-110" y="60" flipX="true" antialiasing="false" camx="20" camy="90" scale="0.9">
+	<anim name="idle" anim="BF idle dance"/>
+	<anim name="singLEFT" anim="BF NOTE LEFT0" x="88.88888888888889" y="0"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN0" x="0" y="22.22222222222222"/>
+	<anim name="singUP" anim="BF NOTE UP0" x="0" y="22.22222222222222"/>
+	<anim name="singRIGHT" anim="BF NOTE RIGHT0" x="-66.66666666666667" y="0"/>
+	<anim name="singLEFTmiss" anim="door" x="88.88888888888889" y="0"/>
+	<anim name="singDOWNmiss" anim="floor" x="0" y="22.22222222222222"/>
+	<anim name="singUPmiss" anim="roof" x="0" y="22.22222222222222"/>
+	<anim name="singRIGHTmiss" anim="wall" x="-66.66666666666667" y="0"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Faith" icon="faith" color="#aac1ff" x="-100" y="-160" camx="370" camy="290" holdTime="6.1" scale="0.6">
+	<anim name="idle" anim="Faith Idle"/>
+	<anim name="singLEFT" anim="Faith Left" x="-96.66666666666667" y="-1.6666666666666667"/>
+	<anim name="singDOWN" anim="Faith Down" x="11.666666666666668" y="0"/>
+	<anim name="singUP" anim="Faith Up" x="-6.666666666666667" y="5"/>
+	<anim name="singRIGHT" anim="Faith Right" x="-1.6666666666666667" y="-1.6666666666666667"/>
+</character>

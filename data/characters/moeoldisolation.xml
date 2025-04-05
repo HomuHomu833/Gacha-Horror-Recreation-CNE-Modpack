@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Depressed Moe lol" icon="bf" color="#072d76" x="-220" y="-70" flipX="true" camx="-70" camy="200" holdTime="6.1" scale="0.7">
+	<anim name="idle" anim="Moe Idle"/>
+	<anim name="singDOWN" anim="Moe Down"/>
+	<anim name="singUP" anim="Moe Up"/>
+	<anim name="singLEFT" anim="Moe Left"/>
+	<anim name="singRIGHT" anim="Moe Right"/>
+</character>

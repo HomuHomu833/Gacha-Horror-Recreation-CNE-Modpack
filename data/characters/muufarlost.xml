@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Muu" icon="bf" color="#a1a1a1" x="-210" y="-210" flipX="true" camx="-90" camy="390" holdTime="6.1" scale="0.5">
+	<anim name="idle" anim="Muu Idle"/>
+	<anim name="singLEFT" anim="Muu Left" x="320" y="0"/>
+	<anim name="singDOWN" anim="Muu Down" x="40" y="-160"/>
+	<anim name="singUP" anim="Muu Up" x="0" y="220"/>
+	<anim name="singRIGHT" anim="Muu Right" x="-360" y="0"/>
+</character>

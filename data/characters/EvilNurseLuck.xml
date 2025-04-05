@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="EvilLuck" icon="luck" color="#cdc5ee" x="-540" y="-245" camx="360" camy="300" holdTime="6.1" scale="0.7">
+	<anim name="singLEFT" anim="EvilLuck Left" x="-47.142857142857146" y="8.571428571428571"/>
+	<anim name="singDOWN" anim="EvilLuck Down" x="15.714285714285715" y="12.857142857142858"/>
+	<anim name="singUP" anim="EvilLuck Up" x="-5.714285714285714" y="12.857142857142858"/>
+	<anim name="singRIGHT" anim="EvilLuck Right" x="38.57142857142858" y="21.42857142857143"/>
+	<anim name="danceLeft" anim="EvilLuck Idle" x="-1.4285714285714286" y="12.857142857142858" indices="8..16"/>
+	<anim name="danceRight" anim="EvilLuck Idle" x="-1.4285714285714286" y="12.857142857142858" indices="0..7"/>
+</character>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Arhullex FP" icon="arhullex" color="#396ca2" x="230" y="-130" flipX="true" camx="430" camy="140" holdTime="6.1" scale="0.8">
+	<anim name="singRIGHTmiss" anim="Arhullex FP RightMiss"/>
+	<anim name="singLEFT" anim="Arhullex FP Left0"/>
+	<anim name="singDOWN" anim="Arhullex FP Down0"/>
+	<anim name="singRIGHT" anim="Arhullex FP Right0"/>
+	<anim name="singUP" anim="Arhullex FP Up0"/>
+	<anim name="singUPmiss" anim="Arhullex FP UpMiss"/>
+	<anim name="singDOWNmiss" anim="Arhullex FP DownMiss"/>
+	<anim name="singLEFTmiss" anim="Arhullex FP LeftMiss"/>
+	<anim name="idle" anim="Arhullex FP Idle" loop="true"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Candice" icon="candice" color="#5ea33e" x="-100" y="-60" camx="730" camy="270" holdTime="6.1" scale="0.6">
+	<anim name="idle" anim="Candice Idle"/>
+	<anim name="singLEFT" anim="Candice Left" x="-1.6666666666666667" y="0"/>
+	<anim name="singDOWN" anim="Candice Down" x="3.3333333333333335" y="3.3333333333333335"/>
+	<anim name="singUP" anim="Candice Up" x="1.6666666666666667" y="-3.3333333333333335"/>
+	<anim name="singRIGHT" anim="Candice Right" x="-1.6666666666666667" y="-1.6666666666666667"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Xephrim" icon="xephrim" color="#000000" x="-410" y="-410" camx="340" camy="400" holdTime="6.1" scale="0.5">
+	<anim name="idle" anim="Xephrim Idle"/>
+	<anim name="singLEFT" anim="Xephrim Left"/>
+	<anim name="singDOWN" anim="Xephrim Down" x="-160" y="0"/>
+	<anim name="singUP" anim="Xephrim Up"/>
+	<anim name="singRIGHT" anim="Xephrim Right"/>
+</character>

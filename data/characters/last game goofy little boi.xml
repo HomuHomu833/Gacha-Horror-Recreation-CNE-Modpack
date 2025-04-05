@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="LSGgoofyboi" icon="goofy" color="#000000" x="-100" y="-110" camx="-180" camy="70" holdTime="6.1" scale="1.1">
+	<anim name="idle" anim="goofy boi Idle" loop="true"/>
+	<anim name="singLEFT" anim="goofy boi Left" x="72.72727272727272" y="0"/>
+	<anim name="singDOWN" anim="goofy boi Down" x="0" y="-72.72727272727272"/>
+	<anim name="singUP" anim="goofy boi Up" x="0" y="109.09090909090908"/>
+	<anim name="singRIGHT" anim="goofy boi Right" x="-109.09090909090908" y="0"/>
+</character>

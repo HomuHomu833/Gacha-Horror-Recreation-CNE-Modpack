@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="sarahghost" icon="ghost" color="#000000" x="-100" y="-130" camx="340" camy="470" holdTime="6.1" scale="0.7">
+	<anim name="idle" anim="SarahGhost Idle"/>
+	<anim name="idle Alt" anim="SarahGhost Idle Alt"/>
+	<anim name="singLEFT" anim="SarahGhost Left" x="0" y="4.285714285714286"/>
+	<anim name="singDOWN" anim="SarahGhost Down" x="0" y="1.4285714285714286"/>
+	<anim name="singUP" anim="SarahGhost Up" x="0" y="-1.4285714285714286"/>
+	<anim name="singRIGHT" anim="SarahGhost Right" x="0" y="-1.4285714285714286"/>
+</character>

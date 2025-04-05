@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="no one" icon="bf" color="#31b0d1" x="-110" y="60" antialiasing="false" camx="20" camy="90" scale="0.9">
+	<anim name="idle" anim="BF idle dance"/>
+</character>

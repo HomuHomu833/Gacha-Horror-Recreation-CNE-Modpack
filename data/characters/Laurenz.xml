@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Laurenz" icon="laurenz" color="#b452ff" x="-320" y="-130" camx="220" camy="200" holdTime="6.1" scale="0.6">
+	<anim name="idle" anim="Idle" x="-16.666666666666668" y="0"/>
+	<anim name="singLEFT" anim="Left" x="233.33333333333334" y="0"/>
+	<anim name="singDOWN" anim="Down"/>
+	<anim name="singUP" anim="Up"/>
+	<anim name="singRIGHT" anim="Right" x="-216.66666666666669" y="0"/>
+</character>

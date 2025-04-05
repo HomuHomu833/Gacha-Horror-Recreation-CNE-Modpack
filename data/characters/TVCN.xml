@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="TVCN" icon="cn" color="#7ee5e5" x="-750" y="-140" camx="-145" camy="90" holdTime="6.1">
+	<anim name="singLEFT" anim="Left"/>
+	<anim name="singDOWN" anim="Down" x="-70" y="-50"/>
+	<anim name="idle" anim="Idle"/>
+	<anim name="singRIGHT" anim="Right" x="0" y="-10"/>
+	<anim name="singUP" anim="Up" x="0" y="80"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Pixie" icon="pixie" color="#277894" x="-80" y="-130" flipX="true" camx="-210" camy="140" holdTime="6.1" scale="0.7">
+	<anim name="idle" anim="Pixie Idle"/>
+	<anim name="singLEFT" anim="Pixie Left" x="98.57142857142858" y="12.857142857142858"/>
+	<anim name="singDOWN" anim="Pixie Down" x="2.857142857142857" y="-114.28571428571429"/>
+	<anim name="singUP" anim="Pixie Up" x="0" y="27.142857142857146"/>
+	<anim name="singRIGHT" anim="Pixie Right" x="-94.28571428571429" y="-37.142857142857146"/>
+</character>

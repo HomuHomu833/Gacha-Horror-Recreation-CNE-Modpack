@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Joel" icon="joel" color="#ea73e6" x="-100" y="40" camx="-120" camy="-110" holdTime="6.1" scale="1.4">
+	<anim name="idle" anim="Joel Idle"/>
+	<anim name="singLEFT" anim="Joel Left"/>
+	<anim name="singDOWN" anim="Joel Down"/>
+	<anim name="singUP" anim="Joel Up"/>
+	<anim name="singRIGHT" anim="Joel Right"/>
+</character>

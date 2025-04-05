@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="NurseLuck" icon="nurseluck" color="#afc3ff" x="-600" y="-233" camx="460" camy="240" holdTime="6.1" scale="0.6">
+	<anim name="idle" anim="NurseLuck Idle" x="-1.6666666666666667" y="15"/>
+	<anim name="singLEFT" anim="NurseLuck Left" x="5" y="16.666666666666668"/>
+	<anim name="singDOWN" anim="NurseLuck Down" x="-1.6666666666666667" y="16.666666666666668"/>
+	<anim name="singUP" anim="NurseLuck Up" x="-1.6666666666666667" y="13.333333333333334"/>
+	<anim name="singRIGHT" anim="NurseLuck Right" x="-5" y="13.333333333333334"/>
+</character>

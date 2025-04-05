@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="BOYFRIEND Back" icon="bf" color="#31b0d1" x="50" y="-140" antialiasing="false" camx="170" camy="110" scale="0.9">
+	<anim name="singDOWN" anim="BF NOTE DOWN0"/>
+	<anim name="singUP" anim="BF NOTE UP0"/>
+	<anim name="singDOWNmiss" anim="floor"/>
+	<anim name="singUPmiss" anim="roof"/>
+	<anim name="idle" anim="Idle"/>
+	<anim name="singLEFT" anim="BF NOTE RIGHT0"/>
+	<anim name="singRIGHT" anim="BF NOTE LEFT0"/>
+	<anim name="singLEFTmiss" anim="wall"/>
+	<anim name="singRIGHTmiss" anim="door"/>
+</character>

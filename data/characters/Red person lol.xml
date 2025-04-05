@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Insomnia man" icon="red" color="#b73f3f" x="60" y="80" camx="-340" camy="-270" holdTime="6.1" scale="1.7">
+	<anim name="idle" anim="Insomnia man Idle"/>
+	<anim name="singLEFT" anim="Insomnia man Left"/>
+	<anim name="singDOWN" anim="Insomnia man Down"/>
+	<anim name="singUP" anim="Insomnia man Up"/>
+	<anim name="singRIGHT" anim="Insomnia man Right"/>
+</character>

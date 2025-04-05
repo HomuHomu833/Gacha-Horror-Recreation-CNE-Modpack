@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Sarah" icon="sarah" color="#fdcdc9" x="-70" y="60" holdTime="6.1" scale="1.2">
+	<anim name="idle" anim="Sarah Idle" x="0.8333333333333334" y="0"/>
+	<anim name="singLEFT" anim="Sarah Left" x="8.333333333333334" y="0"/>
+	<anim name="singDOWN" anim="Sarah Down"/>
+	<anim name="singUP" anim="Sarah Up"/>
+	<anim name="singRIGHT" anim="Sarah Right" x="-8.333333333333334" y="0"/>
+</character>

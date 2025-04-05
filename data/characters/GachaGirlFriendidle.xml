@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="GachaGirlFriend" icon="gf" color="#a5004d" x="-290" y="-240" flipX="true" camx="360" camy="280" scale="0.5">
+	<anim name="cheer" anim="GachaGirlFriend Yay" x="0" y="-18"/>
+	<anim name="singLEFT" anim="GachaGirlFriend Left" x="0" y="-18"/>
+	<anim name="singDOWN" anim="GachaGirlFriend Down" x="0" y="-14"/>
+	<anim name="singUP" anim="GachaGirlFriend Up" x="0" y="-18"/>
+	<anim name="singRIGHT" anim="GachaGirlFriend Right" x="0" y="-18"/>
+	<anim name="sad" anim="GachaGirlFriend Sad" x="0" y="-18"/>
+	<anim name="scared" anim="GachaGirlFriend Scared" x="28" y="-18" loop="true"/>
+	<anim name="idle" anim="GachaGirlFriend Idle" x="0" y="-18" fps="18" loop="true"/>
+</character>
