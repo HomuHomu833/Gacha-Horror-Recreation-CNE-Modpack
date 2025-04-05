@@ -1,3 +1,6 @@
+var bookswblood:FlxSprite;
+var books:FlxSprite;
+
 function create() {
     defaultCamZoom = 0.9;
     boyfriend.setPosition(1080, 150);
@@ -10,7 +13,7 @@ function create() {
     roomwblood.updateHitbox();
     
     if (!Options.lowMemoryMode) {
-        var bookswblood:FlxSprite = new FlxSprite(-150, 180, Paths.image('stages/high/bookswblood'));
+        bookswblood = new FlxSprite(-150, 180, Paths.image('stages/high/bookswblood'));
         bookswblood.scrollFactor.set(0.9, 0.9);
         bookswblood.scale.set(1.0, 1.0);
         bookswblood.updateHitbox();
@@ -22,7 +25,7 @@ function create() {
     room.updateHitbox();
     
     if (!Options.lowMemoryMode) {
-        var books:FlxSprite = new FlxSprite(-150, 180, Paths.image('stages/high/books'));
+        books = new FlxSprite(-150, 180, Paths.image('stages/high/books'));
         books.scrollFactor.set(0.9, 0.9);
         books.scale.set(1.0, 1.0);
         books.updateHitbox();
