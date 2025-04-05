@@ -5,7 +5,7 @@ function create() {
     dad.setPosition(90, 100);
     // ↑ this can be out of create i think
     
-    var daBlack:FlxSprite = new FlxSprite(-150, -170, Paths.images('dablack'));
+    var daBlack:FlxSprite = new FlxSprite(-150, -170, Paths.image('dablack'));
     daBlack.scrollFactor.set(0.9, 0.9);
     daBlack.scale.set(3.9, 3.7);
     daBlack.updateHitbox();
