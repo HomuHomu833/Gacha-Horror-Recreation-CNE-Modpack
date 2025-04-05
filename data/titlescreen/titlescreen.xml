@@ -1,0 +1,63 @@
+<titlestate>
+	<sprites folder="menus/titlescreen">
+        <sprite name="titleBG" sprite="titleBG" x="" y="0" />
+		<sprite name="logo" sprite="logo" x="250" y="-10" beatInterval="0" />
+		<titleEnter sprite="titleEnter" x="-150" y="-100" />
+	</sprites>
+
+	<intro length="16">
+		<text beat="1">
+			<line text="Codename Engine by" />
+		</text>
+
+		<text beat="3">
+            <line text="Codename Engine by" />
+			<line text="YoshiCrafter29" />
+            <line text="Ne_Eo" />
+            <line text="NexIsDumb" />
+            <line text="Frakits" />
+		</text>
+
+		<text beat="4" />
+
+		<text beat="5">
+			<line text="Not associated" />
+			<line text="with" />
+		</text>
+
+		<text beat="7">
+			<line text="Not associated" />
+			<line text="with" />
+			<line text="newgrounds" />
+			<sprite path="menus/titlescreen/newgrounds_logo" scale="0.8"/>
+		</text>
+
+		<text beat="8" />
+
+		<text beat="9">
+			<introtext line="1" />
+		</text>
+
+		<text beat="11">
+			<introtext line="1" />
+			<introtext line="2" />
+		</text>
+
+		<text beat="12"/>
+
+		<text beat="13">
+			<line text="Friday" />
+		</text>
+
+		<text beat="14">
+			<line text="Friday" />
+			<line text="Night" />
+		</text>
+
+		<text beat="15">
+			<line text="Friday" />
+			<line text="Night" />
+			<line text="Funkin" />
+		</text>
+	</intro>
+</titlestate>

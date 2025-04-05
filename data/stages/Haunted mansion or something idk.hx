@@ -1,6 +1,6 @@
-var bg:FlxSprite;
-var tre:FlxSprite;
-var tre2:FlxSprite;
+public var bg:FlxSprite;
+public var tre:FlxSprite;
+public var tre2:FlxSprite;
 
 function create() {
     defaultCamZoom = 0.9;
@@ -41,16 +41,5 @@ function create() {
     if (!Options.lowMemoryMode) {
         add(tre);
         add(tre2);
-    }
-}
-
-function beatHit() {
-    if (curBeat == 192 && curSong == 'Despair') {
-        bg.visible = false;
-        if (!Options.lowMemoryMode) tre.visible = tre2.visible = false;
-    }
-    else if (curBeat == 256 && curSong == 'Despair') {
-        bg.visible = true;
-        if (!Options.lowMemoryMode) tre.visible = tre2.visible = true;
     }
 }
