@@ -7,12 +7,12 @@ function create() {
     gf.setPosition(500, 90);
     dad.setPosition(190, 100);
     
-    normalBG = new FlxSprite(-160, -60, Paths.images('stages/NurseLuck/Normal'));
+    normalBG = new FlxSprite(-160, -60, Paths.image('stages/NurseLuck/Normal'));
     normalBG.scrollFactor.set(0.9, 0.9);
     normalBG.scale.set(2.25, 2.25);
     normalBG.updateHitbox();
     
-    bloodyBG = new FlxSprite(-160, -60, Paths.images('stages/NurseLuck/Bloody'));
+    bloodyBG = new FlxSprite(-160, -60, Paths.image('stages/NurseLuck/Bloody'));
     bloodyBG.scale.set(2.25, 2.25);
     bloodyBG.updateHitbox();
     bloodyBG.visible = false;
