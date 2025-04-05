@@ -6,7 +6,7 @@ function create() {
     gf.setPosition(550, 170);
     dad.setPosition(250, 190);
     
-    var galaxii:FlxSprite = new FlxSprite(-300, 70, Paths.images('black'));
+    var galaxii:FlxSprite = new FlxSprite(-300, 70, Paths.image('black'));
     galaxii.scrollFactor.set(0.9, 0.9);
     galaxii.scale.set(1.8, 1.6);
     galaxii.updateHitbox();
