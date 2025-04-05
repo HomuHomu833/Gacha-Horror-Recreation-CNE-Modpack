@@ -6,12 +6,12 @@ function create() {
     gf.setPosition(470, 10);
     dad.setPosition(190, 100);
     
-    var moe:FlxSprite = new FlxSprite(-600, 67, Paths.images('stages/mo/moe'));
+    var moe:FlxSprite = new FlxSprite(-600, 67, Paths.image('stages/mo/moe'));
     moe.scrollFactor.set(0.9, 0.9);
     moe.scale.set(1.6, 1.2);
     moe.updateHitbox();
     
-    var mo:FlxSprite = new FlxSprite(-1000, -190, Paths.images('stages/mo/mo'));
+    var mo:FlxSprite = new FlxSprite(-1000, -190, Paths.image('stages/mo/mo'));
     mo.scrollFactor.set(0.9, 0.9);
     mo.scale.set(2.2, 1.8);
     mo.updateHitbox();
